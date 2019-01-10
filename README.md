@@ -9,9 +9,9 @@ A curated list of awesome serverless security resources
 * Minimizing the attack surface in Serverless [link](https://www.slideshare.net/avi_shulman/serverless-minimizing-the-attack-surface)
 * Gone in 60 milliseconds: Offensive security in the serverless age (Rich Jones) [link](https://www.youtube.com/watch?v=byJBR16xUnc) 
 * Security Best Practices for Serverless Applications (AWS tech talk) [link](https://www.slideshare.net/AmazonWebServices/security-best-practices-for-serverless-applications-july-2017-aws-online-tech-talks) 
-* AWS IAM best practices (AWS Re:Invent 2014) (link)[https://www.slideshare.net/AmazonWebServices/sec305-iam-best-practices-aws-reinvent-2014] 
-* The Many-Faced Threats to the Serverless World (link)[https://www.slideshare.net/theburningmonk/security-in-serverless-world-96644428] 
-* How to Encrypt Serverless Environment Variable Secrets with KMS (link)[https://www.metaltoad.com/blog/how-to-encrypt-serverless-environment-variable-secrets-with-kms] 
+* AWS IAM best practices (AWS Re:Invent 2014) [link](https://www.slideshare.net/AmazonWebServices/sec305-iam-best-practices-aws-reinvent-2014)
+* The Many-Faced Threats to the Serverless World [link](https://www.slideshare.net/theburningmonk/security-in-serverless-world-96644428) 
+* How to Encrypt Serverless Environment Variable Secrets with KMS [link](https://www.metaltoad.com/blog/how-to-encrypt-serverless-environment-variable-secrets-with-kms])
 * Sharing Secrets with AWS Lambda Using AWS Systems Manager Parameter Store (AWS) [link](https://aws.amazon.com/blogs/compute/sharing-secrets-with-aws-lambda-using-aws-systems-manager-parameter-store/) 
 * A Serverless Journey: AWS Lambda under the hood (Re:Invent 2018 video) [link](https://www.youtube.com/watch?v=QdzV04T_kec) 
 * Security Considerations for AWS Lambda Runtime API and Layers [link](https://www.puresec.io/blog/aws-lambda-security-considerations-runtime-api-and-layers) 
