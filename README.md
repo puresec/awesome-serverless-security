@@ -2,23 +2,27 @@
 A curated list of awesome serverless security resources
 
 ## AWS Lambda Security:
-* AWS Lambda Security Best-Practices (eBook): https://www.puresec.io/aws-lambda-security-best-practices 
-* AWS Lambda Security Quick-Start Guide: https://www.puresec.io/blog/aws-lambda-security-quick-guide 
-* AWS Security Best Practices: AWS Lambda Security - Design for Failure: https://www.puresec.io/blog/aws-security-best-practices-aws-lambda-security-design-for-failure 
-* Securing Serverless: Attacking an AWS Account via a Lambda Function: https://www.darkreading.com/cloud/securing-serverless-attacking-an-aws-account-via-a-lambda-function/a/d-id/1333047? 
-* Minimizing the attack surface in Serverless: https://www.slideshare.net/avi_shulman/serverless-minimizing-the-attack-surface
-* Gone in 60 milliseconds: Offensive security in the serverless age (Rich Jones): https://www.youtube.com/watch?v=byJBR16xUnc 
+* AWS Lambda Security Best-Practices [eBook](https://www.puresec.io/aws-lambda-security-best-practices)
+* AWS Lambda Security Quick-Start [Guide](https://www.puresec.io/blog/aws-lambda-security-quick-guide])
+* AWS Lambda Security - Design for Failure [blog](https://www.puresec.io/blog/aws-security-best-practices-aws-lambda-security-design-for-failure) 
+* Attacking an AWS Account via a Lambda Function [DarkReading](https://www.darkreading.com/cloud/securing-serverless-attacking-an-aws-account-via-a-lambda-function/a/d-id/1333047?) 
+* Minimizing the attack surface in Serverless [Slideshare](https://www.slideshare.net/avi_shulman/serverless-minimizing-the-attack-surface)
+* Gone in 60 milliseconds: Offensive security in the serverless age [Rich Jones](https://www.youtube.com/watch?v=byJBR16xUnc) 
 * Security Best Practices for Serverless Applications: https://www.slideshare.net/AmazonWebServices/security-best-practices-for-serverless-applications-july-2017-aws-online-tech-talks 
 * AWS IAM best practices: https://www.slideshare.net/AmazonWebServices/sec305-iam-best-practices-aws-reinvent-2014 
 * The Many-Faced Threats to the Serverless World: https://www.slideshare.net/theburningmonk/security-in-serverless-world-96644428 
-* Automated SQL Injection Testing of Serverless Functions on a Shoestring Budget (and some Good Music): https://www.puresec.io/blog/automated-sql-injection-testing-of-serverless-functions-on-a-shoestring-budget-and-some-good-music 
-* Generating Least Privileged IAM Roles for AWS Lambda Functions - The Easy Way: https://www.puresec.io/blog/generating-least-privileged-iam-roles-for-aws-lambda-functions-the-easy-way
 * How to Encrypt Serverless Environment Variable Secrets with KMS: https://www.metaltoad.com/blog/how-to-encrypt-serverless-environment-variable-secrets-with-kms 
 * Sharing Secrets with AWS Lambda Using AWS Systems Manager Parameter Store: https://aws.amazon.com/blogs/compute/sharing-secrets-with-aws-lambda-using-aws-systems-manager-parameter-store/ 
 * A Serverless Journey: AWS Lambda under the hood (Re:Invent 2018 video): https://www.youtube.com/watch?v=QdzV04T_kec 
 * Security Considerations for AWS Lambda Runtime API and Layers: https://www.puresec.io/blog/aws-lambda-security-considerations-runtime-api-and-layers 
 * The FireCracker Virtual Machine Monitor: https://lwn.net/Articles/775736/ 
+
+### Tools / Solutions
+* PureSec Serverless Security Platform: https://www.puresec.io/product
 * PureSec FunctionShield: a free AWS Lambda security library for developers: https://www.puresec.io/function-shield 
+* Automated SQL Injection Testing of Serverless Functions on a Shoestring Budget (and some Good Music): https://www.puresec.io/blog/automated-sql-injection-testing-of-serverless-functions-on-a-shoestring-budget-and-some-good-music 
+* Generating Least Privileged IAM Roles for AWS Lambda Functions - The Easy Way: https://www.puresec.io/blog/generating-least-privileged-iam-roles-for-aws-lambda-functions-the-easy-way
+* OWASP ServerlessGoat: A vulnerable AWS Lambda serverless application + lessons and cheat sheet: https://www.owasp.org/index.php/OWASP_Serverless_Goat
 
 
 ## Azure Functions Security:
@@ -38,8 +42,6 @@ A curated list of awesome serverless security resources
 * Serverless Security & Things that Go Bump in the Night: https://qconnewyork.com/ny2017/system/files/presentation-slides/serverless_security_and_things_that_go_bump_in_the_night_-_qcon_nyc_2017.pdf 
 * Go Serverless: Securing Cloud via Serverless Design Patterns (whitepaper): https://www.usenix.org/system/files/conference/hotcloud18/hotcloud18-paper-hong.pdf
 * Secure Serverless CI/CD with Codeship, PureSec, and AWS Lambda: https://blog.codeship.com/secure-serverless-ci-cd-with-codeship-puresec-and-aws-lambda/ 
-* Apache OpenWhisk Action Mutability Weakness: https://www.puresec.io/blog/apache_openwhisk_mutability_weakness 
-* Serverless Cypto-Mining: https://www.puresec.io/blog/new-attack-vector-serverless-crypto-mining 
 
 ## General Application Security Articles & Books:
 * The Web Application Hacker’s Handbook: https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470/
@@ -57,5 +59,9 @@ A curated list of awesome serverless security resources
 * Google gVisor & Google Cloud Functions: https://cloudplatform.googleblog.com/2018/05/Open-sourcing-gVisor-a-sandboxed-container-runtime.html
 * IBM Cloud Functions - Platform Architecture: https://console.bluemix.net/docs/openwhisk/openwhisk_about.html#openwhisk_about
 
-## Educational
-* OWASP ServerlessGoat: A vulnerable AWS Lambda serverless application + lessons and cheat sheet: https://www.owasp.org/index.php/OWASP_Serverless_Goat
+## Vulnerabilities, Weaknesses & CVEs:
+* ReDoS in NPM package 'aws-lambda-multipart-parser': https://www.puresec.io/blog/redos-vulnerability-in-aws-lambda-multipart-parser-node-package
+* Apache OpenWhisk Action Mutability Weakness: https://www.puresec.io/blog/apache_openwhisk_mutability_weakness 
+* Serverless Cypto-Mining: https://www.puresec.io/blog/new-attack-vector-serverless-crypto-mining 
+
+
