@@ -43,10 +43,10 @@ A curated list of awesome serverless security resources
 ## Serverless Risks / General:
 | Title  | Description | Published By | Link
 | -------| ------------ | ----------- | ----
-|  The Ten Most Critical Risks for Serverless Applications v1.0 (Guide)  | xxx | yyy | [link](https://github.com/puresec/sas-top-10) |
-|  Securing Serverless (Blog Series, by PureSec)  | The guide that started it all and covers the top 10 biggest risks to serverless applications | PureSec | [link](https://www.puresec.io/blog/tag/securing-serverless-blog-series) |
-|  Securing Serverless: A Newbie's Guide (Jeremy Daly)  | Blog series covering the main differences between security traditional applications and serverless | PureSec | [link](https://www.jeremydaly.com/securing-serverless-a-newbies-guide/) | 
-|  Serverless Security: What are we up against (Talk)  | A terrific newbie's guide | Jeremy Daly | [link](https://www.youtube.com/watch?v=M7wUanfWs1c&t=2s) |
+|  The Ten Most Critical Risks for Serverless Applications v1.0 (Guide)  | The most comprehensive list of risks to serverless applications | PureSec/Community | [link](https://github.com/puresec/sas-top-10) |
+|  Securing Serverless (Blog Series, by PureSec)  | Blog series covering the main differences between security traditional applications and serverless | PureSec | [link](https://www.puresec.io/blog/tag/securing-serverless-blog-series) |
+|  Securing Serverless: A Newbie's Guide (Jeremy Daly)  | A terrific newbie's guide | Jeremy Daly | [link](https://www.jeremydaly.com/securing-serverless-a-newbies-guide/) | 
+|  Serverless Security: What are we up against (Talk)  | Conference Talk (ServerlessDays) | Ory Segal | [link](https://www.youtube.com/watch?v=M7wUanfWs1c&t=2s) |
 |  Unraveling the truth around serverless security | A discussion between Rupak Ganguly  (Serverless Inc.) and Ory Segal (CTO, PureSec) | (Serverless Inc + PureSec Webinar)  | [link](https://www.youtube.com/watch?v=a5RfAMOrEW0) | 
 |  Hacking Serverless Runtimes: Profiling Lambda, Azure and More (BlackHat presentation)  | Good early insights | Andrew Krug, Graham Jones (BlackHat Conf.) | [link](https://www.blackhat.com/docs/us-17/wednesday/us-17-Krug-Hacking-Severless-Runtimes.pdf) |
 |  Serverless Security & Things that Go Bump in the Night  | QCon NYC | Erik Peterson / CloudZero | [link](https://qconnewyork.com/ny2017/system/files/presentation-slides/serverless_security_and_things_that_go_bump_in_the_night_-_qcon_nyc_2017.pdf) |
