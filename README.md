@@ -2,6 +2,7 @@
 A curated list of awesome serverless security resources
 
 ## AWS Lambda Security:
+* AWS Lambda Security Best-Practices (eBook): https://www.puresec.io/aws-lambda-security-best-practices 
 * AWS Lambda Security Quick-Start Guide: https://www.puresec.io/blog/aws-lambda-security-quick-guide 
 * AWS Security Best Practices: AWS Lambda Security - Design for Failure: https://www.puresec.io/blog/aws-security-best-practices-aws-lambda-security-design-for-failure 
 * Securing Serverless: Attacking an AWS Account via a Lambda Function: https://www.darkreading.com/cloud/securing-serverless-attacking-an-aws-account-via-a-lambda-function/a/d-id/1333047? 
