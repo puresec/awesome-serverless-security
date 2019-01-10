@@ -24,7 +24,7 @@ A curated list of awesome serverless security resources
 
 | Title  | Description | Published By | Link
 | -------| ------------ | ----------- | ----
-|  PureSec Serverless Security Platform  | The world's first and most advanced end-toend serverless security platform | PureSec | [link](https://www.puresec.io/product) |
+|  PureSec Serverless Security Platform  | The world's first and most advanced end-to-end serverless security platform | PureSec | [link](https://www.puresec.io/product) |
 |  PureSec FunctionShield  |  a free AWS Lambda security library for developers | PureSec | [link](https://www.puresec.io/function-shield) | 
 |  Automated SQL Injection Testing of Serverless Functions  | An open source proxy for using SQLMap to test AWS Lambda, natively | PureSec | [link](https://www.puresec.io/blog/automated-sql-injection-testing-of-serverless-functions-on-a-shoestring-budget-and-some-good-music) | 
 |  Auto-Generate Least Privileged IAM Roles for AWS Lambda  | A Serverless framework plugin for automatically generating least privileged roles using static analysis | PureSec | [link](https://www.puresec.io/blog/generating-least-privileged-iam-roles-for-aws-lambda-functions-the-easy-way) |
@@ -62,16 +62,16 @@ A curated list of awesome serverless security resources
 ## General Application Security Articles & Books:
 | Title  | Description | Published By | Link
 | -------| ------------ | ----------- | ----
-|  The Web Application Hacker’s Handbook  | A classic book | Dafydd Stuttard, Marcus Pinto | [link](https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470/) |
-|  Web Application Defender’s Cookbook  | Another classic, covering ModSecurity | Ryan Barnett | [link](https://www.amazon.com/Web-Application-Defenders-Cookbook-Protecting/dp/1118362187/) |
-|  XSS (Cross Site Scripting) Attacks, Exploits & Defense  | The XSS bible |  Seth Fogie, Jeremiah Grossman, Robert Hansen, Anton Rager, Petko D. Petkov  | [link](https://www.amazon.com/XSS-Attacks-Scripting-Exploits-Defense/dp/1597491543/) |
-|  Hacking Exposed - Web Applications  | A Classic | Joel Scambray, Vincent Liu, Caleb Sima | [link](https://www.amazon.com/Hacking-Exposed-Web-Applications-Third/dp/0071740643) | 
-|  Securing DevOps  | Tons of real world examples | Julien Vehent | [link](https://www.manning.com/books/securing-devops?a_aid=securingdevops&a_bid=1353bcd8) |
+|  The Web Application Hacker’s Handbook  | A classic book (Book, Amazon)| Dafydd Stuttard, Marcus Pinto | [link](https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470/) |
+|  Web Application Defender’s Cookbook (Book, Amazon)  | Another classic, covering ModSecurity | Ryan Barnett | [link](https://www.amazon.com/Web-Application-Defenders-Cookbook-Protecting/dp/1118362187/) |
+|  XSS (Cross Site Scripting) Attacks, Exploits & Defense  | The XSS bible (Book, Amazon)|  Seth Fogie, Jeremiah Grossman, Robert Hansen, Anton Rager, Petko D. Petkov  | [link](https://www.amazon.com/XSS-Attacks-Scripting-Exploits-Defense/dp/1597491543/) |
+|  Hacking Exposed - Web Applications  | A Classic (Book, Amazon)| Joel Scambray, Vincent Liu, Caleb Sima | [link](https://www.amazon.com/Hacking-Exposed-Web-Applications-Third/dp/0071740643) | 
+|  Securing DevOps  | Tons of real world examples (Book, Manning) | Julien Vehent | [link](https://www.manning.com/books/securing-devops?a_aid=securingdevops&a_bid=1353bcd8) |
 
 ## AWS Lambda (General):
 | Title  | Description | Published By | Link
 | -------| ------------ | ----------- | ----
-|  Serverless Architectures on AWS  | Teaches you how to build, secure and manage serverless architectures | Peter Sbarski | [link](https://www.amazon.com/Serverless-Architectures-AWS-examples-Lambda/dp/1617293822/) |
+|  Serverless Architectures on AWS  | Teaches you how to build, secure and manage serverless architectures (Book, Amazon)| Peter Sbarski | [link](https://www.amazon.com/Serverless-Architectures-AWS-examples-Lambda/dp/1617293822/) |
 |  Tips & Tricks for logging and monitoring AWS Lambda Functions  | Tips to help you get the most out of your logging and monitoring infrastructure for your functions | Yan Cui | [link](https://hackernoon.com/tips-and-tricks-for-logging-and-monitoring-aws-lambda-functions-885af6da29a5) |
 
 ## Other Interesting Articles / Web Pages:
