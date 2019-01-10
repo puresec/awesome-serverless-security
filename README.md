@@ -28,7 +28,7 @@ A curated list of awesome serverless security resources
 * Identity & Secure Resource Access in App Service & Azure Functions: https://www.youtube.com/watch?v=iFDXDQXRJ8Y 
 * Secure Azure Functions with JWT access tokens: https://blog.wille-zone.de/post/secure-azure-functions-with-jwt-token/ 
 
-## Serverless / Function as a Service (FaaS) Security and serverless risks:
+## Serverless / Function as a Service (FaaS) Security and Serverless Risks:
 * The Ten Most Critical Risks for Serverless Applications v1.0 (Guide): https://github.com/puresec/sas-top-10
 * Securing Serverless (Blog Series): https://www.puresec.io/blog/tag/securing-serverless-blog-series
 * Securing Serverless: A Newbie's Guide: https://www.jeremydaly.com/securing-serverless-a-newbies-guide/ 
@@ -56,3 +56,6 @@ A curated list of awesome serverless security resources
 * Google gVisor: https://github.com/google/gvisor
 * Google gVisor & Google Cloud Functions: https://cloudplatform.googleblog.com/2018/05/Open-sourcing-gVisor-a-sandboxed-container-runtime.html
 * IBM Cloud Functions - Platform Architecture: https://console.bluemix.net/docs/openwhisk/openwhisk_about.html#openwhisk_about
+
+## Educational
+* OWASP ServerlessGoat: A vulnerable AWS Lambda serverless application + lessons and cheat sheet: https://www.owasp.org/index.php/OWASP_Serverless_Goat
