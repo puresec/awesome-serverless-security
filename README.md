@@ -43,9 +43,9 @@ A curated list of awesome serverless security resources
 * Go Serverless: Securing Cloud via Serverless Design Patterns (whitepaper) [link]( https://www.usenix.org/system/files/conference/hotcloud18/hotcloud18-paper-hong.pdf)
 
 ## Vulnerabilities, Weaknesses & CVEs:
-* ReDoS in NPM package 'aws-lambda-multipart-parser': https://www.puresec.io/blog/redos-vulnerability-in-aws-lambda-multipart-parser-node-package
-* Apache OpenWhisk Action Mutability Weakness: https://www.puresec.io/blog/apache_openwhisk_mutability_weakness 
-* Serverless Cypto-Mining: https://www.puresec.io/blog/new-attack-vector-serverless-crypto-mining 
+* ReDoS in NPM package 'aws-lambda-multipart-parser' [link](https://www.puresec.io/blog/redos-vulnerability-in-aws-lambda-multipart-parser-node-package)
+* Apache OpenWhisk Action Mutability Weakness [link](https://www.puresec.io/blog/apache_openwhisk_mutability_weakness) 
+* Serverless Cypto-Mining [link](https://www.puresec.io/blog/new-attack-vector-serverless-crypto-mining) 
 
 ## General Application Security Articles & Books:
 * The Web Application Hacker’s Handbook [link](https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470/)
