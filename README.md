@@ -1,7 +1,7 @@
 # :lock: awesome-serverless-security
 A curated list of awesome serverless security resources
 
-## AWS Lambda Security:
+## AWS Lambda Security
 
 | Title  | Description | Published By | Link
 | -------| ------------ | ----------- | ----
@@ -31,7 +31,8 @@ A curated list of awesome serverless security resources
 |  OWASP ServerlessGoat  | A vulnerable AWS Lambda serverless application | OWASP | [link](https://www.owasp.org/index.php/OWASP_Serverless_Goat) |
 |  Secure Serverless CI/CD with Codeship, PureSec, and AWS Lambda  | A step by step guide for secure serverless CI/CD | CodeShip & PureSec | [link](https://blog.codeship.com/secure-serverless-ci-cd-with-codeship-puresec-and-aws-lambda/) | 
 
-## Azure Functions Security:
+## Azure Functions Security
+
 | Title  | Description | Published By | Link
 | -------| ------------ | ----------- | ----
 |  TechNet Article: Azure Functions & Serverless Platform Security  | Some basics on Azure functions security | Microsoft | [link](https://gallery.technet.microsoft.com/Azure-Functions-and-c6449f8d) | 
@@ -40,7 +41,8 @@ A curated list of awesome serverless security resources
 |  Identity & Secure Resource Access in App Service & Azure Functions  | Explores features in App Service or Azure Functions which make working with identities simple (Build Conference) | Microsoft (YouTube) | [link](https://www.youtube.com/watch?v=iFDXDQXRJ8Y) | 
 |  Secure Azure Functions with JWT access tokens  | Blog post | Boris Wilhelms | [link](https://blog.wille-zone.de/post/secure-azure-functions-with-jwt-token/) | 
 
-## Serverless Risks / General:
+## Serverless Risks / General
+
 | Title  | Description | Published By | Link
 | -------| ------------ | ----------- | ----
 |  The Ten Most Critical Risks for Serverless Applications v1.0 (Guide)  | The most comprehensive list of risks to serverless applications | PureSec/Community | [link](https://github.com/puresec/sas-top-10) |
@@ -51,15 +53,19 @@ A curated list of awesome serverless security resources
 |  Hacking Serverless Runtimes: Profiling Lambda, Azure and More (BlackHat presentation)  | Good early insights | Andrew Krug, Graham Jones (BlackHat Conf.) | [link](https://www.blackhat.com/docs/us-17/wednesday/us-17-Krug-Hacking-Severless-Runtimes.pdf) |
 |  Serverless Security & Things that Go Bump in the Night  | QCon NYC | Erik Peterson / CloudZero | [link](https://qconnewyork.com/ny2017/system/files/presentation-slides/serverless_security_and_things_that_go_bump_in_the_night_-_qcon_nyc_2017.pdf) |
 |  Go Serverless: Securing Cloud via Serverless Design Patterns (whitepaper)  | Six serverless design patterns to build security services in the cloud | Sanghyun Hong, Abhinav Srivastava, William Shambrook, Tudor Dumitras | [link]( https://www.usenix.org/system/files/conference/hotcloud18/hotcloud18-paper-hong.pdf) |
+| Peeking Behind the Curtains of Serverless Platforms | Provides insights into architectures, resource utilization, and the performance isolation efficiency of AWS Lambda, GCF and Azure Functions (pdf)| Liang Wang, Mengyuan Li, Yinqian Zhang, Thomas Ristenpart, Michael Swift | [link](https://www.usenix.org/system/files/conference/atc18/atc18-wang-liang.pdf)
 
-## Vulnerabilities, Weaknesses & CVEs:
+
+## Vulnerabilities, Weaknesses & CVEs
+
 | Title  | Description | Published By | Link
 | -------| ------------ | ----------- | ----
 |  ReDoS in NPM package 'aws-lambda-multipart-parser'  | A ReDoS in an NPM package used to attack AWS Lambda applications | PureSec / CVE | [link](https://www.puresec.io/blog/redos-vulnerability-in-aws-lambda-multipart-parser-node-package) |
 |  Apache OpenWhisk Action Mutability Weakness  | 2 vulnerabilities discovered in Apache OpenWhisk (CVEs) | PureSec | [link](https://www.puresec.io/blog/apache_openwhisk_mutability_weakness) | 
 |  Serverless Cypto-Mining  | Exploiting app layer vulnerabilities in serverless functions to abuse AWS Lambda for crypto-mining | PureSec | [link](https://www.puresec.io/blog/new-attack-vector-serverless-crypto-mining) | 
 
-## General Application Security Articles & Books:
+## General Application Security Articles & Books
+
 | Title  | Description | Published By | Link
 | -------| ------------ | ----------- | ----
 |  The Web Application Hacker’s Handbook  | A classic book (Book, Amazon)| Dafydd Stuttard, Marcus Pinto | [link](https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470/) |
@@ -68,13 +74,15 @@ A curated list of awesome serverless security resources
 |  Hacking Exposed - Web Applications  | A Classic (Book, Amazon)| Joel Scambray, Vincent Liu, Caleb Sima | [link](https://www.amazon.com/Hacking-Exposed-Web-Applications-Third/dp/0071740643) | 
 |  Securing DevOps  | Tons of real world examples (Book, Manning) | Julien Vehent | [link](https://www.manning.com/books/securing-devops?a_aid=securingdevops&a_bid=1353bcd8) |
 
-## AWS Lambda (General):
+## AWS Lambda (General)
+
 | Title  | Description | Published By | Link
 | -------| ------------ | ----------- | ----
 |  Serverless Architectures on AWS  | Teaches you how to build, secure and manage serverless architectures (Book, Amazon)| Peter Sbarski | [link](https://www.amazon.com/Serverless-Architectures-AWS-examples-Lambda/dp/1617293822/) |
 |  Tips & Tricks for logging and monitoring AWS Lambda Functions  | Tips to help you get the most out of your logging and monitoring infrastructure for your functions | Yan Cui | [link](https://hackernoon.com/tips-and-tricks-for-logging-and-monitoring-aws-lambda-functions-885af6da29a5) |
 
-## Other Interesting Articles / Web Pages:
+## Other Interesting Articles / Web Pages
+
 | Title  | Description | Published By | Link
 | -------| ------------ | ----------- | ----
 |  Google gVisor:  | Github repo | Google | [link](https://github.com/google/gvisor) |
