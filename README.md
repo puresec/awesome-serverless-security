@@ -19,6 +19,7 @@ A curated list of awesome serverless security resources
 |  A Serverless Journey: AWS Lambda under the hood | Great talk on how Lambda works, intro to Firecracker | AWS (Re:Invent 2018 video)  | [link](https://www.youtube.com/watch?v=QdzV04T_kec) | 
 |  Security Considerations for AWS Lambda Runtime API and Layers  | Things to keep in mind when developing with Layers & Runtime API | PureSec | [link](https://www.puresec.io/blog/aws-lambda-security-considerations-runtime-api-and-layers) | 
 |  The (AWS) FireCracker Virtual Machine Monitor  | An analysis of Firecracker | Azhar Desai | [link](https://lwn.net/Articles/775736/) |
+| AWS Lambda Serverless Security Workshop | Learn techniques to secure a serverless application built with AWS Lambda, Amazon API Gateway and RDS Aurora (Re:Invent 2018 workshop)| AWS | [link](https://github.com/aws-samples/aws-serverless-security-workshop)
 
 ### Security Tools / Solutions
 
