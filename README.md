@@ -55,6 +55,7 @@ A curated list of awesome serverless security resources
 |  Serverless Security & Things that Go Bump in the Night  | QCon NYC | Erik Peterson / CloudZero | [link](https://qconnewyork.com/ny2017/system/files/presentation-slides/serverless_security_and_things_that_go_bump_in_the_night_-_qcon_nyc_2017.pdf) |
 |  Go Serverless: Securing Cloud via Serverless Design Patterns (whitepaper)  | Six serverless design patterns to build security services in the cloud | Sanghyun Hong, Abhinav Srivastava, William Shambrook, Tudor Dumitras | [link]( https://www.usenix.org/system/files/conference/hotcloud18/hotcloud18-paper-hong.pdf) |
 | Peeking Behind the Curtains of Serverless Platforms | Provides insights into architectures, resource utilization, and the performance isolation efficiency of AWS Lambda, GCF and Azure Functions (pdf)| Liang Wang, Mengyuan Li, Yinqian Zhang, Thomas Ristenpart, Michael Swift | [link](https://www.usenix.org/system/files/conference/atc18/atc18-wang-liang.pdf)
+| Serverless Architectures | THE overview on Serverless Architectures. This article provides an in-depth look at serverless architecture | Mike Roberts (at MartinFowler.com) | [link](https://martinfowler.com/articles/serverless.html)
 
 
 ## Vulnerabilities, Weaknesses & CVEs
