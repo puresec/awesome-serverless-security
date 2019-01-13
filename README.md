@@ -91,3 +91,8 @@ A curated list of awesome serverless security resources
 |  Google gVisor & Google Cloud Functions  | Blog post | Google | [link](https://cloudplatform.googleblog.com/2018/05/Open-sourcing-gVisor-a-sandboxed-container-runtime.html) |
 |  IBM Cloud Functions - Platform Architecture  | OpenWhisk & IBM Cloud Functions overview | IBM | [link](https://console.bluemix.net/docs/openwhisk/openwhisk_about.html#openwhisk_about) |
 
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [PureSec](https://www.puresec.io) has waived all copyright and related or neighboring rights to this work.
