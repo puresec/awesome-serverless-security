@@ -1,5 +1,5 @@
 # :lock: awesome-serverless-security [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-A curated list of awesome serverless security resources
+A curated list of awesome serverless security resources such as (e)books, articles, whitepapers, blogs and research papers.
 
 ## Contents
 - [AWS Lambda Security](#aws-lambda-security)
