@@ -8,7 +8,7 @@ A curated list of awesome serverless security resources
 - [Serverless Risks / General](#serverless-risks--general)
 - [Vulnerabilities, Weaknesses, CVEs](#vulnerabilities-weaknesses-cves)
 - [General Application Security Articles, Books](#general-application-security-articles-books)
-- [AWS Lambda (General)](#aws-lambda-general
+- [AWS Lambda (General)](#aws-lambda-general)
 - [Other Interesting Articles / Web Pages](#other-interesting-articles--web-pages)
 - [License](#license)
 
