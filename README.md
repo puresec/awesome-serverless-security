@@ -1,6 +1,18 @@
 # :lock: awesome-serverless-security
 A curated list of awesome serverless security resources
 
+## Contents
+- [AWS Lambda Security](#aws-lambda-security)
+- [Security Tools / Solutions](#security-tools-/-solutions)
+- [Azure Functions Security](#azure-functions-security)
+- [Serverless Risks / General](#serverless-risks-/-general)
+- [Vulnerabilities, Weaknesses, CVEs](#vulnerabilities,-weaknesses,-cves)
+- [General Application Security Articles, Books](#general-application-security-articles,-books)
+- [AWS Lambda (General)](#aws-lambda-(general)
+- [Other Interesting Articles / Web Pages](#other-interesting-articles-/-web-pages)
+- [License](#license)
+
+
 ## AWS Lambda Security
 
 | Title  | Description | Published By | Link
@@ -21,7 +33,7 @@ A curated list of awesome serverless security resources
 |  The (AWS) FireCracker Virtual Machine Monitor  | An analysis of Firecracker | Azhar Desai | [link](https://lwn.net/Articles/775736/) |
 | AWS Lambda Serverless Security Workshop | Learn techniques to secure a serverless application built with AWS Lambda, Amazon API Gateway and RDS Aurora (Re:Invent 2018 workshop)| AWS | [link](https://github.com/aws-samples/aws-serverless-security-workshop)
 
-### Security Tools / Solutions
+## Security Tools / Solutions
 
 | Title  | Description | Published By | Link
 | -------| ------------ | ----------- | ----
@@ -57,8 +69,7 @@ A curated list of awesome serverless security resources
 | Peeking Behind the Curtains of Serverless Platforms | Provides insights into architectures, resource utilization, and the performance isolation efficiency of AWS Lambda, GCF and Azure Functions (pdf)| Liang Wang, Mengyuan Li, Yinqian Zhang, Thomas Ristenpart, Michael Swift | [link](https://www.usenix.org/system/files/conference/atc18/atc18-wang-liang.pdf)
 | Serverless Architectures | THE overview on Serverless Architectures. This article provides an in-depth look at serverless architecture | Mike Roberts (at MartinFowler.com) | [link](https://martinfowler.com/articles/serverless.html)
 
-
-## Vulnerabilities, Weaknesses & CVEs
+## Vulnerabilities, Weaknesses, CVEs
 
 | Title  | Description | Published By | Link
 | -------| ------------ | ----------- | ----
@@ -66,7 +77,7 @@ A curated list of awesome serverless security resources
 |  Apache OpenWhisk Action Mutability Weakness  | 2 vulnerabilities discovered in Apache OpenWhisk (CVEs) | PureSec | [link](https://www.puresec.io/blog/apache_openwhisk_mutability_weakness) | 
 |  Serverless Cypto-Mining  | Exploiting app layer vulnerabilities in serverless functions to abuse AWS Lambda for crypto-mining | PureSec | [link](https://www.puresec.io/blog/new-attack-vector-serverless-crypto-mining) | 
 
-## General Application Security Articles & Books
+## General Application Security Articles, Books
 
 | Title  | Description | Published By | Link
 | -------| ------------ | ----------- | ----
