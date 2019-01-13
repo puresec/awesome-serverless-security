@@ -3,13 +3,13 @@ A curated list of awesome serverless security resources
 
 ## Contents
 - [AWS Lambda Security](#aws-lambda-security)
-- [Security Tools / Solutions](#security-tools-/-solutions)
+- [Security Tools / Solutions](#security-tools--solutions)
 - [Azure Functions Security](#azure-functions-security)
-- [Serverless Risks / General](#serverless-risks-/-general)
-- [Vulnerabilities, Weaknesses, CVEs](#vulnerabilities,-weaknesses,-cves)
-- [General Application Security Articles, Books](#general-application-security-articles,-books)
-- [AWS Lambda (General)](#aws-lambda-(general)
-- [Other Interesting Articles / Web Pages](#other-interesting-articles-/-web-pages)
+- [Serverless Risks / General](#serverless-risks--general)
+- [Vulnerabilities, Weaknesses, CVEs](#vulnerabilities-weaknesses-cves)
+- [General Application Security Articles, Books](#general-application-security-articles-books)
+- [AWS Lambda (General)](#aws-lambda-general
+- [Other Interesting Articles / Web Pages](#other-interesting-articles--web-pages)
 - [License](#license)
 
 
