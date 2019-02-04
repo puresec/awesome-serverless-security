@@ -5,6 +5,7 @@ A curated list of awesome serverless security resources such as (e)books, articl
 - [AWS Lambda Security](#aws-lambda-security)
 - [Security Tools / Solutions](#security-tools--solutions)
 - [Azure Functions Security](#azure-functions-security)
+- [Google Cloud Functions Security](#google-cloud-functions-security)
 - [Serverless Risks / General](#serverless-risks--general)
 - [Vulnerabilities, Weaknesses, CVEs](#vulnerabilities-weaknesses-cves)
 - [General Application Security Articles, Books](#general-application-security-articles-books)
