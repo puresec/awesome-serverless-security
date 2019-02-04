@@ -40,7 +40,7 @@ A curated list of awesome serverless security resources such as (e)books, articl
 | Title  | Description | Published By | Link
 | -------| ------------ | ----------- | ----
 |  PureSec Serverless Security Platform  | The world's first and most advanced end-to-end serverless security platform | PureSec | [link](https://www.puresec.io/product) |
-|  PureSec FunctionShield  |  a free AWS Lambda security library for developers | PureSec | [link](https://www.puresec.io/function-shield) | 
+|  PureSec FunctionShield  |  a free AWS Lambda security library for developers | PureSec | [official page](https://www.puresec.io/function-shield) , [Github Repo](https://github.com/puresec/FunctionShield) | 
 |  Automated SQL Injection Testing of Serverless Functions  | An open source proxy for using SQLMap to test AWS Lambda, natively | PureSec | [link](https://www.puresec.io/blog/automated-sql-injection-testing-of-serverless-functions-on-a-shoestring-budget-and-some-good-music) | 
 |  Auto-Generate Least Privileged IAM Roles for AWS Lambda  | A Serverless framework plugin for automatically generating least privileged roles using static analysis | PureSec | [link](https://www.puresec.io/blog/generating-least-privileged-iam-roles-for-aws-lambda-functions-the-easy-way) |
 |  OWASP ServerlessGoat  | A vulnerable AWS Lambda serverless application | OWASP | [link](https://www.owasp.org/index.php/OWASP_Serverless_Goat) |
