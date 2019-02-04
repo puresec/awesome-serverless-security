@@ -18,6 +18,7 @@ A curated list of awesome serverless security resources such as (e)books, articl
 | Title  | Description | Published By | Link
 | -------| ------------ | ----------- | ----
 |  AWS Lambda Security Best-Practices eBook  | PDF eBook covering all the basics such as: Serverless Top 10, IAM roles & permissions, CloudTrail, AWS Config, API Gateway security, etc. | PureSec | [link](https://www.puresec.io/aws-lambda-security-best-practices) |
+|  Foundations of AWS Lambda Security  | Webinar recording covering AWS Lambda security basics, IAM permissions, Scalability, Governance, etc. | PureSec | [link](https://www.puresec.io/on-demand-foundations-of-aws-lambda-security) |
 |  AWS Lambda Security Quick-Start Guide  | A quick start guide portraying security strategies for AWS Lambda applications | PureSec | [link](https://www.puresec.io/blog/aws-lambda-security-quick-guide]) |
 |  AWS Lambda Security - Design for Failure  | Important notes on the importance of IAM permissions for AWS Lambda | PureSec | [link](https://www.puresec.io/blog/aws-security-best-practices-aws-lambda-security-design-for-failure) | 
 |  Attacking an AWS Account via a Lambda Function  | An article on DarkReading, describing attackers/defenders side of a real serverless bounty hunt | DarkReading | [link](https://www.darkreading.com/cloud/securing-serverless-attacking-an-aws-account-via-a-lambda-function/a/d-id/1333047?) | 
