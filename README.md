@@ -53,7 +53,14 @@ A curated list of awesome serverless security resources such as (e)books, articl
 |  Run Your Azure Functions from a Package File  | Immutable Azure functions | Microsoft | [link](https://docs.microsoft.com/en-us/azure/azure-functions/run-functions-from-deployment-package) | 
 |  Security in Azure App Service & Azure Functions  | More basics | Microsoft | [link](https://docs.microsoft.com/en-us/azure/app-service/app-service-security) | 
 |  Identity & Secure Resource Access in App Service & Azure Functions  | Explores features in App Service or Azure Functions which make working with identities simple (Build Conference) | Microsoft (YouTube) | [link](https://www.youtube.com/watch?v=iFDXDQXRJ8Y) | 
-|  Secure Azure Functions with JWT access tokens  | Blog post | Boris Wilhelms | [link](https://blog.wille-zone.de/post/secure-azure-functions-with-jwt-token/) | 
+|  Secure Azure Functions with JWT access tokens  | Blog post | Boris Wilhelms | [link](https://blog.wille-zone.de/post/secure-azure-functions-with-jwt-token/) |
+
+## Google Cloud Functions Security
+
+| Title  | Description | Published By | Link
+| -------| ------------ | ----------- | ----
+|  Function Identity  | Documentation for Cloud Functions IAM and Per-Function Identity | Google | [link](https://cloud.google.com/functions/docs/securing/function-identity) | 
+
 
 ## Serverless Risks / General
 
