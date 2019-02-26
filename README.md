@@ -2,15 +2,15 @@
 A curated list of awesome serverless security resources such as (e)books, articles, whitepapers, blogs and research papers.
 
 ## Contents
- - [AWS Lambda Security](#aws-lambda-security)
- - [Security Tools / Solutions](#security-tools--solutions)
- - [Azure Functions Security](#azure-functions-security)
- - [Google Cloud Functions Security](#google-cloud-functions-security)
- - [Serverless Risks / General](#serverless-risks--general)
- - [Vulnerabilities, Weaknesses, CVEs](#vulnerabilities-weaknesses-cves)
- - [General Application Security Articles, Books](#general-application-security-articles-books)
- - [AWS Lambda (General)](#aws-lambda-general)
- - [Other Interesting Articles / Web Pages](#other-interesting-articles--web-pages)
+- [AWS Lambda Security](#aws-lambda-security)
+- [Security Tools / Solutions](#security-tools--solutions)
+- [Azure Functions Security](#azure-functions-security)
+- [Google Cloud Functions Security](#google-cloud-functions-security)
+- [Serverless Risks / General](#serverless-risks--general)
+- [Vulnerabilities, Weaknesses, CVEs](#vulnerabilities-weaknesses-cves)
+- [General Application Security Articles, Books](#general-application-security-articles-books)
+- [AWS Lambda (General)](#aws-lambda-general)
+- [Other Interesting Articles / Web Pages](#other-interesting-articles--web-pages)
 ## AWS Lambda Security
 - [AWS Lambda Security Best-Practices eBook](https://www.puresec.io/aws-lambda-security-best-practices) - PDF eBook covering all the basics such as: Serverless Top 10, IAM roles & permissions, CloudTrail, AWS Config, API Gateway security. 
 - [Foundations of AWS Lambda Security](https://www.puresec.io/on-demand-foundations-of-aws-lambda-security) - Webinar recording covering AWS Lambda security basics, IAM permissions, Scalability, Governance. 
@@ -51,7 +51,7 @@ A curated list of awesome serverless security resources such as (e)books, articl
 - [Hacking Serverless Runtimes](https://www.blackhat.com/docs/us-17/wednesday/us-17-Krug-Hacking-Severless-Runtimes.pdf) - Good early insights presentation from BlackHat conference 2017.
 - [Serverless Security and Things that Go Bump in the Night](https://qconnewyork.com/ny2017/system/files/presentation-slides/serverless_security_and_things_that_go_bump_in_the_night_-_qcon_nyc_2017.pdf) -  QCon NYC presentation by Silvexis covering security basics for serverless.
 - [Securing Cloud via Serverless Design Patterns](https://www.usenix.org/system/files/conference/hotcloud18/hotcloud18-paper-hong.pdf) - Six serverless design patterns to build security services in the cloud. 
-- [Peeking Behind the Curtains of Serverless Platforms](https://www.usenix.org/system/files/conference/atc18/atc18-wang-liang.pdf) -  Provides insights into architectures, resource utilization, and the performance isolation efficiency of AWS Lambda, GCF and Azure Functions (pdf)
+- [Peeking Behind the Curtains of Serverless Platforms](https://www.usenix.org/system/files/conference/atc18/atc18-wang-liang.pdf) -  Provides insights into architectures, resource utilization, and the performance isolation efficiency of AWS Lambda, GCF and Azure Functions.
 - [Serverless Architectures](https://martinfowler.com/articles/serverless.html) - The best overview on serverless architectures. This article provides an in-depth look at serverless architectures. 
 ## Vulnerabilities, Weaknesses, CVEs
 - [ReDoS in NPM package aws-lambda-multipart-parser](https://www.puresec.io/blog/redos-vulnerability-in-aws-lambda-multipart-parser-node-package) - A ReDoS in an NPM package for AWS Lambda functions. 
