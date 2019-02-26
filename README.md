@@ -2,8 +2,6 @@
 A curated list of awesome serverless security resources such as (e)books, articles, whitepapers, blogs and research papers.
 
 ## Contents
-- [:lock: awesome-serverless-security ![Awesome](https://awesome.re)](#lock-awesome-serverless-security-awesomehttpsawesomere)
-  - [Contents](#contents)
   - [AWS Lambda Security](#aws-lambda-security)
   - [Security Tools / Solutions](#security-tools--solutions)
   - [Azure Functions Security](#azure-functions-security)
