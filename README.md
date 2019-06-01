@@ -53,6 +53,7 @@ A curated list of awesome serverless security resources such as (e)books, articl
 - [Securing Cloud via Serverless Design Patterns](https://www.usenix.org/system/files/conference/hotcloud18/hotcloud18-paper-hong.pdf) - Six serverless design patterns to build security services in the cloud. 
 - [Peeking Behind the Curtains of Serverless Platforms](https://www.usenix.org/system/files/conference/atc18/atc18-wang-liang.pdf) -  Provides insights into architectures, resource utilization, and the performance isolation efficiency of AWS Lambda, GCF and Azure Functions.
 - [Serverless Architectures](https://martinfowler.com/articles/serverless.html) - The best overview on serverless architectures. This article provides an in-depth look at serverless architectures. 
+- [10 Serverless Security Best Practices](https://snyk.io/blog/10-serverless-security-best-practices/) - cheat sheet resource for security guidelines when working with functions/serverless environments.
 ## Vulnerabilities, Weaknesses, CVEs
 - [ReDoS in NPM package aws-lambda-multipart-parser](https://www.puresec.io/blog/redos-vulnerability-in-aws-lambda-multipart-parser-node-package) - A ReDoS in an NPM package for AWS Lambda functions. 
 - [Apache OpenWhisk Action Mutability Weakness](https://www.puresec.io/blog/apache_openwhisk_mutability_weakness) - Two vulnerabilities discovered in Apache OpenWhisk.
