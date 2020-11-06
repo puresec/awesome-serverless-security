@@ -45,7 +45,8 @@ A curated list of awesome serverless security resources such as (e)books, articl
 - [Function Identity](https://cloud.google.com/functions/docs/securing/function-identity) -  Documentation for Google Cloud Functions IAM and per-function identity.
 ## Serverless Risks / General
 - [CSA: The 12 Most Critical Risks for Serverless Applications 2019](https://www.puresec.io/serverless-security-top-12-csa-puresec) - The most extensive guide on the top risks for serverless applications (Cloud Security Alliance & PureSec).
-- [Securing serverless blog series](https://www.puresec.io/blog/tag/securing-serverless-blog-series) - Blog series covering the main differences between security traditional applications and serverless. 
+- [Securing serverless blog series](https://www.puresec.io/blog/tag/securing-serverless-blog-series) - Blog series covering the main differences between security traditional applications and serverless.
+- [Serverless Security: Understand, Assess, and Implement Secure and Reliable Applications in AWS, Microsoft Azure, and Google Cloud](https://ServerlessSecurityBook.com) - Apress book by Miguel A. Calles.
 - [Securing Serverless: A Newbie's Guide](https://www.jeremydaly.com/securing-serverless-a-newbies-guide/) - A terrific newbie's guide by Jeremy Daly. 
 - [Serverless Security: What are we up against](https://www.youtube.com/watch?v=M7wUanfWs1c&t=2s) - A conference talk from ServerlessDays covering serverless security basics. 
 - [Hacking Serverless Runtimes](https://www.blackhat.com/docs/us-17/wednesday/us-17-Krug-Hacking-Severless-Runtimes.pdf) - Good early insights presentation from BlackHat conference 2017.
