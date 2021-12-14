@@ -63,6 +63,7 @@ A curated list of awesome serverless security resources such as (e)books, articl
 - [XSS (Cross Site Scripting) Attacks, Exploits & Defense](https://www.amazon.com/XSS-Attacks-Scripting-Exploits-Defense/dp/1597491543/) - The XSS bible covering all aspects of XSS attacks and protections.
 - [Hacking Exposed - Web Applications](https://www.amazon.com/Hacking-Exposed-Web-Applications-Third/dp/0071740643) - Another classic book on web application security.
 - [Securing DevOps](https://www.manning.com/books/securing-devops?a_aid=securingdevops&a_bid=1353bcd8) -  Tons of real world examples on DevOps and security.
+- [Data Privacy](https://www.manning.com/books/data-privacy) -  A book that teaches you to implement technical privacy solutions and tools at scale. 
 ## AWS Lambda (General)
 - [Serverless Architectures on AWS](https://www.amazon.com/Serverless-Architectures-AWS-examples-Lambda/dp/1617293822/) - This book teaches you how to build, secure and manage serverless architectures.
 - [Tips & Tricks for logging and monitoring AWS Lambda Functions](https://hackernoon.com/tips-and-tricks-for-logging-and-monitoring-aws-lambda-functions-885af6da29a5) - Tips to help you get the most out of your logging and monitoring infrastructure for your functions .
