@@ -35,6 +35,7 @@ A curated list of awesome serverless security resources such as (e)books, articl
 - [Auto-Generate Least Privileged IAM Roles for AWS Lambda](https://www.puresec.io/blog/generating-least-privileged-iam-roles-for-aws-lambda-functions-the-easy-way) - A Serverless framework plugin for automatically generating least privileged roles using static analysis. 
 - [OWASP ServerlessGoat](https://www.owasp.org/index.php/OWASP_Serverless_Goat) -  A vulnerable AWS Lambda serverless application. 
 - [Secure Serverless CI/CD with Codeship, PureSec, and AWS Lambda](https://blog.codeship.com/secure-serverless-ci-cd-with-codeship-puresec-and-aws-lambda/) - A step by step guide for secure serverless CI/CD.
+- [Greywall](https://github.com/GreyhavenHQ/greywall) - Deny-by-default command sandbox with filesystem/network isolation for AI coding agents and CLI tools, with learning mode for auto-generating security configs.
 ## Azure Functions Security
 - [Azure Functions & Serverless Platform Security](https://gallery.technet.microsoft.com/Azure-Functions-and-c6449f8d) - Some basics on Azure functions security. 
 - [Run Your Azure Functions from a Package File](https://docs.microsoft.com/en-us/azure/azure-functions/run-functions-from-deployment-package) - Deploying immutable Azure functions. 
